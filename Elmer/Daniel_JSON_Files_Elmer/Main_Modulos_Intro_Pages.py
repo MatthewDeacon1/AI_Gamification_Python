@@ -12,7 +12,19 @@ from badge_system.display_cabinet import BadgeDisplayCabinet
 from Codigos_LeaderBoard.Main_Leaderboard_FV import LeaderBoard, get_instance
 from PyQt6.QtCore import Qt
 
+class PipelineMethod:
+    def __init__(self, progreso_file, processed_file="processed_progress.json"):
+        self.progreso_file = progreso_file
+        self.processed_file = processed_file
+        self.progreso_data = self.load_progress()
+        self.processed_progress = self.load_processed_progress()
+        self.lock_dir = "pipeline_locks"  # Directory to store lock files
+        self.execution_window = timedelta(minutes=5)  # Prevent re-running within 5 minutes
+        self.running_flags = {}  # Dictionary to track running status for each user and module combination
 
+        # Create lock directory if it doesn't exist
+        if not os.path.exists(self.lock_dir):
+            os.makedirs(self.lock_dir)
 
 class UserGuideDialog(QtWidgets.QDialog):
     def __init__(self, parent=None):
