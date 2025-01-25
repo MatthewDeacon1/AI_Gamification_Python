@@ -1,0 +1,34 @@
+{
+    "multiplechoice": [
+        {
+            "title": "Pregunta 3",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l afirmaci\u00f3n verifica correctamente si una variable 'y' no es igual a 10?\n\n1. if y != 10:\n2. if y <> 10:\n3. if y not 10:\n4. if y is not 10:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "if y != 10:",
+                        "correct": true
+                    },
+                    {
+                        "text": "if y <> 10:",
+                        "correct": false
+                    },
+                    {
+                        "text": "if y not 10:",
+                        "correct": false
+                    },
+                    {
+                        "text": "if y is not 10:",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

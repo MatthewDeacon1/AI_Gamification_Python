@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 6",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l de las siguientes afirmaciones verifica correctamente si un n\u00famero 'n' es tanto mayor que 10 como menor que 20?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "if n > 10 or n < 20:",
+                        "correct": false
+                    },
+                    {
+                        "text": "if n > 10 and n < 20:",
+                        "correct": true
+                    },
+                    {
+                        "text": "if 10 < n < 20:",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

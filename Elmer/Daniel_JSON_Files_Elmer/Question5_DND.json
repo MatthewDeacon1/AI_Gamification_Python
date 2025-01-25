@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 5",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Completa la declaraci\u00f3n if para verificar si un diccionario 'd' tiene una clave 'name'."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "'name' in d",
+                        "text": "if ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "'name' in d",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "d['name']",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "'name' not in d",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

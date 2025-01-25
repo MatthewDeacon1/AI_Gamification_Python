@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 10",
+            "question": {
+                "title": "Seleccione la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Elija la condici\u00f3n correcta para verificar si una cadena 's' contiene solo caracteres alfab\u00e9ticos."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "s.isalpha()",
+                        "text": "si ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "s.isalpha()",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "s.isdigit()",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "s.isspace()",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

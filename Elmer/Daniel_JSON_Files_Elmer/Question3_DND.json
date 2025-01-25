@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 3",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Completa la declaraci\u00f3n if para verificar si una cadena 's' est\u00e1 vac\u00eda."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "s == ''",
+                        "text": "if ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "s == ''",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "s != ''",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "s is None",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

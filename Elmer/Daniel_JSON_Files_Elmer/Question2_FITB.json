@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 2",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l ser\u00e1 la salida del siguiente fragmento de c\u00f3digo?\n\nx = 5\nif x > 3:\n    print('x es mayor que 3')\nelse:\n    print('x no es mayor que 3')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "x es mayor que 3",
+                        "correct": true
+                    },
+                    {
+                        "text": "x no es mayor que 3",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sin salida",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

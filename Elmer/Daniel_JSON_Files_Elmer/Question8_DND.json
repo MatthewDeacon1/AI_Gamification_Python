@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 8",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Elige la condici\u00f3n correcta para verificar si un flotante 'f' no es un n\u00famero (NaN)."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "math.isnan(f)",
+                        "text": "si ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "math.isnan(f)",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "f == NaN",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "f es NaN",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

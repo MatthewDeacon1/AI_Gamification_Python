@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 6",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Elige la condici\u00f3n correcta para verificar si una variable 'a' es menor o igual que 'b'."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "a <= b",
+                        "text": "si ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "a <= b",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "a < b",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "a == b",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

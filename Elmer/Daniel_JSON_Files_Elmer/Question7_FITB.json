@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 7",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l ser\u00e1 la salida del siguiente c\u00f3digo?\n\na = 5\nb = 10\nif a > b:\n    print('a es mayor')\nelif a < b:\n    print('b es mayor')\nelse:\n    print('a y b son iguales')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "a es mayor",
+                        "correct": false
+                    },
+                    {
+                        "text": "b es mayor",
+                        "correct": true
+                    },
+                    {
+                        "text": "a y b son iguales",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

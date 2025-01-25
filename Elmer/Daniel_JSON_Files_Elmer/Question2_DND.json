@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 2",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Elige la condici\u00f3n correcta para verificar si una variable 'x' es igual a 10."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "x == 10",
+                        "text": "si ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "x == 10",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "x = 10",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "x != 10",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

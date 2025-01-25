@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 1",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "En Python, \u00bfqu\u00e9 palabra clave se utiliza para iniciar una declaraci\u00f3n condicional?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "for",
+                        "correct": false
+                    },
+                    {
+                        "text": "if",
+                        "correct": true
+                    },
+                    {
+                        "text": "while",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 10",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l ser\u00e1 la salida de esta declaraci\u00f3n if anidada?\n\nx = 8\ny = 3\nif x > 5:\n    if y < 5:\n        print('Anidado Verdadero')\n    else:\n        print('Anidado Falso')\nelse:\n    print('Exterior Falso')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "Anidado Verdadero",
+                        "correct": true
+                    },
+                    {
+                        "text": "Anidado Falso",
+                        "correct": false
+                    },
+                    {
+                        "text": "Exterior Falso",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

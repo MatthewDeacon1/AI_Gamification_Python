@@ -1,0 +1,34 @@
+{
+    "multiplechoice": [
+        {
+            "title": "Pregunta 6",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfQu\u00e9 se imprimir\u00e1 si x = 15?\n\nif x > 10:\n    if x < 20:\n        print('Entre 10 y 20')\n    else:\n        print('20 o m\u00e1s')\nelse:\n    print('10 o menos')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "Entre 10 y 20",
+                        "correct": true
+                    },
+                    {
+                        "text": "20 o m\u00e1s",
+                        "correct": false
+                    },
+                    {
+                        "text": "10 o menos",
+                        "correct": false
+                    },
+                    {
+                        "text": "Ninguna",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 7",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Completa la declaraci\u00f3n if para verificar si un conjunto 's' es un subconjunto de otro conjunto 't'."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "s.issubset(t)",
+                        "text": "if ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "s.issubset(t)",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "t.issubset(s)",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "s == t",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

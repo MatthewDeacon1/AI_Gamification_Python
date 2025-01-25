@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 4",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Elige la condici\u00f3n correcta para verificar si una lista 'lst' contiene exactamente 5 elementos."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "len(lst) == 5",
+                        "text": "si ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "len(lst) == 5",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "len(lst) > 5",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "lst[5]",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

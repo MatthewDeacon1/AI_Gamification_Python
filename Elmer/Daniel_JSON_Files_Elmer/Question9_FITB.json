@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 9",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l de las siguientes expresiones se ejecutar\u00e1 correctamente si 'value' no es None y no es una cadena vac\u00eda?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "if value:",
+                        "correct": true
+                    },
+                    {
+                        "text": "if value is not None:",
+                        "correct": false
+                    },
+                    {
+                        "text": "if value != '':",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 4",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Considera el siguiente c\u00f3digo:\n\nx = 10\ny = 5\nif x < y:\n    print('x es menor que y')\nelse:\n    print('x es mayor o igual que y')\n\n\u00bfQu\u00e9 se imprimir\u00e1?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "x es menor que y",
+                        "correct": false
+                    },
+                    {
+                        "text": "x es mayor o igual que y",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sin salida",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

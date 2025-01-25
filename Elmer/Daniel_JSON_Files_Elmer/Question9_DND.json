@@ -1,0 +1,37 @@
+{
+    "draganddrop": [
+        {
+            "title": "Pregunta 9",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "multipleResponses": true,
+                "multipleResponseVariant": true,
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "Completa la declaraci\u00f3n if para verificar si una tupla 't' contiene solo elementos \u00fanicos."
+                    },
+                    {
+                        "type": "question1",
+                        "correctValue": "len(t) == len(set(t))",
+                        "text": "if ___:"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "len(t) == len(set(t))",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "len(t) != len(set(t))",
+                        "correctType": "question1"
+                    },
+                    {
+                        "text": "set(t) == t",
+                        "correctType": "question1"
+                    }
+                ]
+            }
+        }
+    ]
+}

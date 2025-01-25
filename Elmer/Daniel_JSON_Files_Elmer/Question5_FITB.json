@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 5",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "\u00bfCu\u00e1l es la salida del siguiente c\u00f3digo?\n\nx = 'Python'\nif 'Py' in x:\n    print('Encontrado')\nelse:\n    print('No Encontrado')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "Encontrado",
+                        "correct": true
+                    },
+                    {
+                        "text": "No Encontrado",
+                        "correct": false
+                    },
+                    {
+                        "text": "Error",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "completeblankspace": [
+        {
+            "title": "Pregunta 8",
+            "question": {
+                "title": "Selecciona la respuesta correcta",
+                "blocks": [
+                    {
+                        "type": "info",
+                        "text": "En el siguiente c\u00f3digo, \u00bfcu\u00e1l ser\u00e1 la salida?\n\nx = 0\nif x:\n    print('True')\nelse:\n    print('False')"
+                    }
+                ],
+                "answers": [
+                    {
+                        "text": "Verdadero",
+                        "correct": false
+                    },
+                    {
+                        "text": "Falso",
+                        "correct": true
+                    },
+                    {
+                        "text": "Error",
+                        "correct": false
+                    }
+                ]
+            }
+        }
+    ]
+}
