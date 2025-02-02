@@ -287,5 +287,55 @@
             "Quiz1": false,
             "Quiz2": false
         }
+    },
+    "twelve": {
+        "M\u00f3dulo1": {
+            "Leccion1": true,
+            "Leccion2": false,
+            "Leccion3": false,
+            "Leccion4": false,
+            "Leccion5": false,
+            "Quiz1": false,
+            "Quiz2": false
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": false,
+            "Leccion2": false,
+            "Leccion3": false,
+            "Quiz1": false,
+            "Quiz2": false,
+            "Quiz3": false
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": false,
+            "Leccion2": false,
+            "Leccion3": false,
+            "Leccion4": false,
+            "Leccion5": false,
+            "Quiz1": false,
+            "Quiz2": false,
+            "Quiz3": false
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": false,
+            "Leccion2": false,
+            "Leccion3": false,
+            "Leccion4": false,
+            "Leccion5": false,
+            "Quiz1": false,
+            "Quiz2": false,
+            "Quiz3": false
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": false,
+            "Leccion2": false,
+            "Leccion3": false,
+            "Leccion4": false,
+            "Leccion5": false,
+            "Leccion6": false,
+            "Leccion7": false,
+            "Quiz1": false,
+            "Quiz2": false
+        }
     }
 }
