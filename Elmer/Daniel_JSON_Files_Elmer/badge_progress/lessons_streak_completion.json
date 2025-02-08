@@ -2086,5 +2086,788 @@
                 "all_correct": false
             }
         }
+    },
+    "ten": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "on": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "adf": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": true
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "cvb": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "er": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": true
+            },
+            "Leccion2": {
+                "all_correct": true
+            },
+            "Leccion3": {
+                "all_correct": true
+            },
+            "Leccion4": {
+                "all_correct": true
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "wee": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "eer": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "err": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
+    },
+    "cdc": {
+        "M\u00f3dulo1": {
+            "Leccion1": {
+                "all_correct": true
+            },
+            "Leccion2": {
+                "all_correct": true
+            },
+            "Leccion3": {
+                "all_correct": true
+            },
+            "Leccion4": {
+                "all_correct": true
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo2": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo3": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo4": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            }
+        },
+        "M\u00f3dulo5": {
+            "Leccion1": {
+                "all_correct": false
+            },
+            "Leccion2": {
+                "all_correct": false
+            },
+            "Leccion3": {
+                "all_correct": false
+            },
+            "Leccion4": {
+                "all_correct": false
+            },
+            "Leccion5": {
+                "all_correct": false
+            },
+            "Leccion6": {
+                "all_correct": false
+            },
+            "Leccion7": {
+                "all_correct": false
+            }
+        }
     }
 }
