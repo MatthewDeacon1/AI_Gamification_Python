@@ -209,5 +209,33 @@
             "Leccion_completada4": true,
             "Leccion_completada5": true
         }
+    },
+    "tes": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": true,
+            "Leccion_completada2": true,
+            "Leccion_completada3": true,
+            "Leccion_completada4": true,
+            "Leccion_completada5": true,
+            "Quiz_completado1": true
+        }
+    },
+    "ots": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": true,
+            "Leccion_completada2": true,
+            "Leccion_completada3": true,
+            "Leccion_completada4": true,
+            "Leccion_completada5": true
+        }
+    },
+    "otx": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": true,
+            "Leccion_completada2": true,
+            "Leccion_completada3": true,
+            "Leccion_completada4": true,
+            "Leccion_completada5": true
+        }
     }
 }

@@ -83,5 +83,20 @@
         "name": "cdc",
         "points": 131,
         "last_active": "2025-02-04 ; 18h:02m"
+    },
+    {
+        "name": "tes",
+        "points": 137,
+        "last_active": "2025-02-08 ; 16h:57m"
+    },
+    {
+        "name": "ots",
+        "points": 132,
+        "last_active": "2025-02-09 ; 10h:15m"
+    },
+    {
+        "name": "otx",
+        "points": 132,
+        "last_active": "2025-02-09 ; 10h:15m"
     }
 ]

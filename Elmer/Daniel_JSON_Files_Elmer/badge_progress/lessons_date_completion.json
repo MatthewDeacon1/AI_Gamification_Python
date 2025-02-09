@@ -1313,5 +1313,116 @@
             "Leccion_completada6": "",
             "Leccion_completada7": ""
         }
+    },
+    "tes": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": "2025-02-08",
+            "Leccion_completada2": "2025-02-08",
+            "Leccion_completada3": "2025-02-08",
+            "Leccion_completada4": "2025-02-08",
+            "Leccion_completada5": "2025-02-08"
+        },
+        "M\u00f3dulo2": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": ""
+        },
+        "M\u00f3dulo3": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo4": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo5": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": "",
+            "Leccion_completada6": "",
+            "Leccion_completada7": ""
+        }
+    },
+    "ots": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": "2025-02-09",
+            "Leccion_completada2": "2025-02-09",
+            "Leccion_completada3": "2025-02-09",
+            "Leccion_completada4": "2025-02-09",
+            "Leccion_completada5": "2025-02-09"
+        },
+        "M\u00f3dulo2": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": ""
+        },
+        "M\u00f3dulo3": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo4": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo5": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": "",
+            "Leccion_completada6": "",
+            "Leccion_completada7": ""
+        }
+    },
+    "otx": {
+        "M\u00f3dulo1": {
+            "Leccion_completada1": "2025-02-09",
+            "Leccion_completada2": "2025-02-09",
+            "Leccion_completada3": "2025-02-09",
+            "Leccion_completada4": "2025-02-09",
+            "Leccion_completada5": "2025-02-09"
+        },
+        "M\u00f3dulo2": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": ""
+        },
+        "M\u00f3dulo3": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo4": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": ""
+        },
+        "M\u00f3dulo5": {
+            "Leccion_completada1": "",
+            "Leccion_completada2": "",
+            "Leccion_completada3": "",
+            "Leccion_completada4": "",
+            "Leccion_completada5": "",
+            "Leccion_completada6": "",
+            "Leccion_completada7": ""
+        }
     }
 }
